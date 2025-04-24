@@ -1,4 +1,4 @@
-package com.config;
+package com.example.springboot_res_jwt.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
